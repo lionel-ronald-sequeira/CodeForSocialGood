@@ -1,0 +1,33 @@
+#dv-footer{
+    height:200px;
+}
+
+#dv-f{
+    width:8%;
+    float:left;
+    height:200px;
+}
+
+#dv-list{
+    width:84%;
+    float:left;
+    height:200px;
+}
+
+#dv-list-1,#dv-list-2,#dv-list-3,#dv-list-4,#dv-list-5,#dv-list-6,
+#dv-list-7,#dv-list-8,#dv-list-9,#dv-list-10,#dv-list-11{
+    float:left;
+    font-size:12px;
+    
+}
+
+ul{
+    list-style:none;
+    
+}
+
+li{
+   padding-bottom:10px;
+}
+
+
