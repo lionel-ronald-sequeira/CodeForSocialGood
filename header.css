@@ -1,0 +1,75 @@
+#dv-header{
+    background-color:#3b5998;
+    height:65px;
+}
+
+body {
+    margin:0px;
+    padding:0px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+#dv{
+    width:10%;
+    float:left;
+    height:60px;
+}
+
+#dv-logo{
+    width:40%;
+    float:left;
+    padding-top:7px;
+}
+
+#dv-logo a{
+    font-size:35px;
+    font-weight:bold;
+    color:white;
+    text-align:right;   
+}
+
+#dv-logo a:hover{
+    text-decoration:none;
+}
+
+#dv-login{
+    width:40%;
+    float:left;
+}
+
+#dv-login div{
+    float:left;
+    padding-left:20px;
+}
+
+#dv-login #dv-email{
+    width:35%;
+}
+
+#dv-login #dv-pass{
+    width:35%;
+}
+
+#dv-login #dv-pass{
+    width:35%;
+}
+
+#dv-login span{
+    font-size:12px;
+    color:white;
+}
+
+#dv-logbtn{
+    padding-top:20px;
+}
+
+#dv-logbtn input[type="submit"]{
+    background-color:#4267B2;
+    border-color:#29487d;
+    color:white;
+}
+
+
+
+
+
