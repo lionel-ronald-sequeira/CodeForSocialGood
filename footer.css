@@ -5,17 +5,24 @@
 #dv-f{
     width:8%;
     float:left;
-    height:200px;
+    height:80px;
 }
 
-#dv-list{
+#dv-list,#dv-lang{
     width:84%;
     float:left;
-    height:200px;
+    height:80px;
 }
 
 #dv-list-1,#dv-list-2,#dv-list-3,#dv-list-4,#dv-list-5,#dv-list-6,
 #dv-list-7,#dv-list-8,#dv-list-9,#dv-list-10,#dv-list-11{
+    float:left;
+    font-size:12px;
+    
+}
+
+#dv-lang-1,#dv-lang-2,#dv-lang-3,#dv-lang-4,#dv-lang-5,#dv-lang-6,#dv-lang-7,
+#dv-lang-8,#dv-lang-9,#dv-lang-10{
     float:left;
     font-size:12px;
     
@@ -28,6 +35,7 @@ ul{
 
 li{
    padding-bottom:10px;
+   color:#90949c;
 }
 
 
