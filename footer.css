@@ -35,7 +35,10 @@ ul{
 
 li{
    padding-bottom:10px;
-   color:#90949c;
+}
+
+li a{
+    color:#3b5998;
 }
 
 

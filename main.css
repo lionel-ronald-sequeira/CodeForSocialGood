@@ -81,7 +81,7 @@
     margin-left:20px;
 }
 
-#dv-signup #dv-name,#dv-mob,#dv-pwd,#dv-btn,#dv-policy,#dv-gender{
+#dv-signup #dv-name,#dv-mob,#dv-pwd,#dv-btn,#dv-policy,#dv-gender,#dv-dob{
    margin-left:20px; 
 }
 
@@ -130,6 +130,10 @@
     margin-bottom:10px;
 }
 
+#dv-txt a{
+    font-size:12px;
+}
+
 #dv-pwd input{
     height:30px;
     width:95%;
@@ -160,6 +164,7 @@
 }
 
 #dv-gender{
+    height:40px;
     margin-bottom:10px;
 }
 
